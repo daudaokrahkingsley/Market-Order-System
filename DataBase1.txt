@@ -1,0 +1,9 @@
+CREATE TABLE `customers`(
+      `custId` INT AUTO_INCREAMENT PRIMARY KEY,
+      `fname` VARCHAR(100) NOT NULL,
+      `num1`  VARCHAR(100) NOT NULL,
+      `item`  VARCHAR(100) NOT NULL,
+      `price` VARCHAR(100) NOT NULL,
+      `hall`  VARCHAR(100) NOT NULL
+
+);
